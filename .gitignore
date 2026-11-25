@@ -1,0 +1,3 @@
+target/
+data/*_export.csv
+src/main/resources/db.properties

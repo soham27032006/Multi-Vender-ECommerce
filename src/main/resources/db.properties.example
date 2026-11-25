@@ -1,0 +1,4 @@
+# Copy this file to db.properties and fill in your local MySQL details.
+db.url=jdbc:mysql://localhost:3306/marketplace_db
+db.user=root
+db.password=YOUR_PASSWORD

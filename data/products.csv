@@ -1,0 +1,11 @@
+vendor_id,name,category,price,stock
+1,Wireless Mouse,Electronics,599.00,25
+1,USB-C Charger 65W,Electronics,1499.50,10
+1,Bluetooth Speaker,Electronics,2299.00,3
+2,Cotton T-Shirt,Clothing,399.00,50
+2,Denim Jeans,Clothing,1299.99,15
+2,Running Shoes,Footwear,2999.00,2
+1,Broken Row Missing Stock,Electronics,100.00
+2,Negative Price Item,Clothing,-50.00,5
+2,Bad Stock Item,Clothing,250.00,ten
+99,Unknown Vendor Item,Books,199.00,5
